@@ -13,6 +13,7 @@ The sidebar filters State, District, Crop Year range, Season and Crop. The same 
 
 ## Required CSV columns
 `State_Name`, `District_Name`, `Crop_Year`, `Season`, `Crop`, `Area`, `Production`
+Dashboard link : https://agriculture-storytelling-dashboard-zsprrsc2jdq8h6jea6zkqg.streamlit.app/
 
 Place `crop_production.csv` in the same folder as `app.py`. Alternatively, upload a CSV from the sidebar.
 
